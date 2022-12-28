@@ -11,4 +11,6 @@ I have worked hard to educate myself on the latest technologies and best practic
 
 As a bug bounty hunter, I use my skills and knowledge to identify vulnerabilities in systems and report them to companies, 
 I am a bug bounty hunter, actively searching for and reporting vulnerabilities in systems and software to ensure their security.
-This allows me to not only contribute to the overall security of the internet, but also continue learning and improving my skills.
+This allows me to not only contribute to the overall security of the internet, but also continue learning.
+
+In addition to my technical skills, I am also an active member of the cybersecurity community, participating in hackathons and collaborating with other professionals in the field. I am constantly seeking out new opportunities to learn and grow as a cybersecurity expert, and I am excited to continue building my skills and expertise in this dynamic and ever-evolving field.
